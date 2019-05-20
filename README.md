@@ -1,1 +1,1 @@
-# react-register-otp
+# Register Via OTP - React
